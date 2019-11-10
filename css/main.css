@@ -724,7 +724,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	top: 15px;
  }
  #title h1 {
-	 font-size: 50px;
+	 font-size: 25px;
 	 color:#ff0000;
 	 text-align: center;
  }
