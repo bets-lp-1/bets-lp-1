@@ -46,7 +46,7 @@
 	/*-----------------------------------------------------*/
   	/* Mobile Menu
    ------------------------------------------------------ */  
-   var toggleButton = $('.menu-toggle'),
+  /*  var toggleButton = $('.menu-toggle'),
        nav = $('.main-navigation');
 
    toggleButton.on('click', function(event){
@@ -69,7 +69,7 @@
    		toggleButton.toggleClass('is-clicked'); 
    		nav.fadeOut();   		
    	}     
-  	});
+  	}); */
 
 
    /*----------------------------------------------------*/
