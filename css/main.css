@@ -878,6 +878,9 @@ header .logo a {
 	height: 38px;
 	background-size: 38px 38px;
 }
+.sticky h1 {
+	padding-top: 15px;
+}
 
 /**
  * responsive:
