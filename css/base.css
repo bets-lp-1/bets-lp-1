@@ -662,7 +662,8 @@ textarea {
 }
 
 #tgname {
-	font-size: 10px;
+	font-size: 13px;
+	color: rgba(111,111,111, 0.5);
 }
 
 /*# sourceMappingURL=base.css.map */
